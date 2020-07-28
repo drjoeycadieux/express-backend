@@ -4,8 +4,8 @@ import './fake-hmr';
 
 const ExampleComponent = () => {
   return <div>
-    <h1>This is my express template!</h1>
-    <p>I wanted to make it super simple to be able to make an app, so I made this barebones express template. No views, nothing but webpack and a fast render. You can edit me if you go to `client/index.js`.</p>
+    <h1>Canada COVID-19HEALTH</h1>
+    <p> For the most up to date information regarding COVID-19 in Canada, please consult Canada Deptartment of Health. This site should not be used for life saving information - instead, rather, a source for numbers and statistics. `client/index.js`.</p>
   </div>
 }
 

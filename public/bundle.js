@@ -9607,12 +9607,12 @@ var ExampleComponent = function ExampleComponent() {
     _react2.default.createElement(
       'h1',
       null,
-      'This is my express template!'
+      'Canada COVID-19HEALTH'
     ),
     _react2.default.createElement(
       'p',
       null,
-      'I wanted to make it super simple to be able to make an app, so I made this barebones express template. No views, nothing but webpack and a fast render. You can edit me if you go to `client/index.js`.'
+      ' For the most up to date information regarding COVID-19 in Canada, please consult Canada Deptartment of Health. This site should not be used for life saving information - instead, rather, a source for numbers and statistics. `client/index.js`.'
     )
   );
 };

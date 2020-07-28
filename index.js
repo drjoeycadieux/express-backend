@@ -33,7 +33,7 @@ app.get('*', (req, res) => {
   res.send(`<!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>hi</title>
+    <title>Canada COVID-19HEALTH - Server</title>
   </head>
   <body>
     <div id="app"/>
